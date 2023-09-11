@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
+import './index.css';
 import './App.css';
+
+import TextSection from "./components/textSection";
+import Form from "./components/form";
+import BackgroundImage from "./components/backgroundImage"
+
+
+import "./fonts/Roboto-Regular.ttf";
+import "./fonts/Roboto-Regular.ttf";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app text-primaryColor flex flex-col md:flex-row-reverse md:justify-center md:py-4 md:pl-8">
+      
+      <BackgroundImage/>
+      <div className="md:py-12">
+        <TextSection/>
+        <Form/>
+      </div>
     </div>
   );
 }
-
+ 
 export default App;
