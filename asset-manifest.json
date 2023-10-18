@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/signup-form/static/css/main.a7b00445.css",
-    "main.js": "/signup-form/static/js/main.ce82a319.js",
+    "main.js": "/signup-form/static/js/main.92f85321.js",
     "static/js/787.856e1621.chunk.js": "/signup-form/static/js/787.856e1621.chunk.js",
     "static/media/Roboto-Regular.ttf": "/signup-form/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Bold.ttf": "/signup-form/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
@@ -10,11 +10,11 @@
     "index.html": "/signup-form/index.html",
     "static/media/icon-list.svg": "/signup-form/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
     "main.a7b00445.css.map": "/signup-form/static/css/main.a7b00445.css.map",
-    "main.ce82a319.js.map": "/signup-form/static/js/main.ce82a319.js.map",
+    "main.92f85321.js.map": "/signup-form/static/js/main.92f85321.js.map",
     "787.856e1621.chunk.js.map": "/signup-form/static/js/787.856e1621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7b00445.css",
-    "static/js/main.ce82a319.js"
+    "static/js/main.92f85321.js"
   ]
 }
