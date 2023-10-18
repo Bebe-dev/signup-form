@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Bebe-dev/signup-form)
-- Live Site URL: [Add live site URL here](https://bebe-dev.github.io/signup-form/)
+- Solution URL: [Solution URL](https://github.com/Bebe-dev/signup-form)
+- Live Site URL: [Live site URL](https://bebe-dev.github.io/signup-form/)
 
 ## My process
 
